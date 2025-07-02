@@ -14,36 +14,36 @@ public class Sets {
     public static Set<String> construirHashSet() {
        //vamos a crear una  variable de tipo Set//
         Set<String> palabra = new HashSet<>();
-        palabra.add("laptop");
-        palabra.add("manzana");
-        palabra.add("pera");
+        palabra.add("Laptop");
+        palabra.add("Manzana");
+        palabra.add("Pera");
         palabra.add("celular"); 
-        palabra.add("laptop");
-        palabra.add("celular");
+        palabra.add("Laptop");
+        palabra.add("Celular");
         return palabra;
     }
 
     public  static  Set<String> construirLinkedHashSet() {
       //lo mismo solo cambiamos la implementacion//
         Set<String> palabra = new LinkedHashSet<>();
-        palabra.add("laptop");
-        palabra.add("manzana");
-        palabra.add("pera");
+        palabra.add("Laptop");
+        palabra.add("Manzana");
+        palabra.add("Pera");
         palabra.add("celular"); 
-        palabra.add("laptop");
-        palabra.add("celular");
+        palabra.add("Laptop");
+        palabra.add("Celular");
         return palabra;
     }
 
     public static Set<String> construirTreeSet() {
         // una variable de tipo Set//
         Set<String> palabra = new TreeSet<>();
-        palabra.add("laptop");
-        palabra.add("manzana");
-        palabra.add("pera");
+        palabra.add("Laptop");
+        palabra.add("Manzana");
+        palabra.add("Pera");
         palabra.add("celular"); 
-        palabra.add("laptop");
-        palabra.add("celular");
+        palabra.add("Laptop");
+        palabra.add("Celular");
         return palabra;
     }
 
@@ -61,13 +61,13 @@ public static Set<String> construirTreeSetConComparador() {
     };
 
     Set<String> palabra = new TreeSet<>(comparador);
-    palabra.add("laptop");
-    palabra.add("manzana");
-    palabra.add("pera");
-    palabra.add("celular"); 
+    palabra.add("Laptop");
+    palabra.add("Manzana");
+    palabra.add("Pera");
+    palabra.add("Celular"); 
     palabra.add("laptop");
     palabra.add("celular");
-    palabra.add("celulas");
+    palabra.add("Celulas");
     return palabra;
 }
 // un quinto metodo donde el comparador sea diferente sea inverso
@@ -84,13 +84,13 @@ public static Set<String> construirTreeSetConComparadorInverso() {
     };
 
     Set<String> palabra = new TreeSet<>(comparadorInverso);
-    palabra.add("laptop");
-    palabra.add("manzana");
-    palabra.add("pera");
-    palabra.add("celular"); 
-    palabra.add("laptop");
+    palabra.add("Laptop");
+    palabra.add("Manzana");
+    palabra.add("Pera");
+    palabra.add("Celular"); 
+    palabra.add("Laptop");
     palabra.add("celular");
-    palabra.add("celulas");
+    palabra.add("Celulas");
     return palabra;
 }
 

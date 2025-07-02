@@ -1,13 +1,21 @@
-import java.util.Set;
+import controllers.ContactoController;
 import controllers.Sets;
 
+import java.util.Set;
+import java.util.TreeSet;
 public class App {
     public static void main(String[] args) {
         runHashSet();
         runLinkedHashSet();
         runTreeSet();
         runTreeSetConComparador();
-        runTreeSetConComparadorInverso(); // Nuevo
+        runTreeSetConComparadorInverso();
+
+        // Contactos
+        ContactoController contactos = new ContactoController();
+        contactos.runTreeContacto();         // Orden por Apellido y Nombre
+        contactos.runTreeContactoNumero();   // Orden por Teléfono
+        contactos.runTreeContactoHash();    // Orden por HashCode
     }
 
     public static void runHashSet() {
