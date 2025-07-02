@@ -30,4 +30,7 @@ El proyecto demuestra cómo se comportan estas colecciones con datos repetidos y
 
 ![image](https://github.com/user-attachments/assets/1ef7c8da-967b-493a-a8ab-423138e4f7cd)
 
+## 🚀 Ejecución 1.2
+
+![image](https://github.com/user-attachments/assets/054572f6-e5e6-48f3-ace6-c208d66184da)
 
