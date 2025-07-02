@@ -26,48 +26,8 @@ El proyecto demuestra cómo se comportan estas colecciones con datos repetidos y
 
 ----------
 ## 🚀 Ejecución
+![image](https://github.com/user-attachments/assets/edd58d21-7f66-41ac-a293-5e8cf92eae3a)
 
-PS C:\Users\Dannn\OneDrive\Desktop\Icc-est-u2-sets\Icc-est-u2-sets>  & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Dannn\OneDrive\Desktop\Icc-est-u2-sets\Icc-est-u2-sets\bin' 'App' 
-|----------HashSet|----------------| 
-manzana
-pera
-celular
-laptop
--------------------------------------
+![image](https://github.com/user-attachments/assets/1ef7c8da-967b-493a-a8ab-423138e4f7cd)
 
-|----------LinkedHashSet|-----------|
-laptop
-manzana
-pera
-celular
--------------------------------------
-
-|----------TreeSet|-----------------|
-Celular
-Laptop
-Manzana
-Pera
-celular
--------------------------------------
-
-|------TreeSet con Comparador|------|
-Pera
-Laptop
-laptop
-Celular
-Celulas
-Manzana
-celular
--------------------------------------
-
-|--TreeSet con Comparador Inverso--|
-celular
-Manzana
-Celulas
-Celular
-Laptop
-Pera
--------------------------------------
-
-PS C:\Users\Dannn\OneDrive\Desktop\Icc-est-u2-sets\Icc-est-u2-sets> 
 
