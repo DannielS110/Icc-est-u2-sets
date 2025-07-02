@@ -1,18 +1,33 @@
-## Getting Started
+Práctica de Set
+Título: Sets
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Asignatura: Estructura de Datos
 
-## Folder Structure
+Carrera: Computación
 
-The workspace contains two folders by default, where:
+Estudiante: Daniel Sanchez Valle
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Ciclo: 2do Ciclo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Fecha: 01/07/2025
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Profesor: ING. PABLO ANDRES TORRES PEÑA
 
-## Dependency Management
+## 🛠️ Descripción
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este proyecto muestra el uso de diferentes implementaciones de la interfaz Set en Java, tales como:
+
+- HashSet  
+- LinkedHashSet  
+- TreeSet  
+- TreeSet con comparador personalizado (ordenamiento por longitud y alfabético)  
+
+El proyecto demuestra cómo se comportan estas colecciones con datos repetidos y cómo se ordenan cuando se usa un TreeSet con un Comparator personalizado.
+
+----------
+## 🚀 Ejecución
+![image](https://github.com/user-attachments/assets/edd58d21-7f66-41ac-a293-5e8cf92eae3a)
+
+![image](https://github.com/user-attachments/assets/1ef7c8da-967b-493a-a8ab-423138e4f7cd)
+
+
