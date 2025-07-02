@@ -9,7 +9,7 @@ Estudiante: Daniel Sanchez Valle
 
 Ciclo: 2do Ciclo
 
-Fecha: 31 de marzo de 2025
+Fecha: 01/07/2025
 
 Profesor: ING. PABLO ANDRES TORRES PEÑA
 
