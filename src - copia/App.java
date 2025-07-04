@@ -3,8 +3,12 @@ import controllers.Sets;
 
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.Comparator;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import controllers.Ejercicios;
 public class App {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         runHashSet();
         runLinkedHashSet();
         runTreeSet();
@@ -61,5 +65,10 @@ public class App {
             System.out.println(p);
         }
         System.out.println("-------------------------------------\n");
-    }
+    }*/
+
+    public static void main(String[] args) {
+        Ejercicios ejercicios = new Ejercicios();
+        
+            }
 }
